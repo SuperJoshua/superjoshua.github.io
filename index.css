@@ -47,3 +47,9 @@ main {
 p {
    font-family: sans-serif;
 }
+
+#the-realm {
+   float: right;
+   height: 131px;
+   width: 300px;
+}
