@@ -6,13 +6,13 @@ body {
 }
 
 h1, h2, h3, h4 {
+   border-color: black;
    font-variant: small-caps;
    margin-top: 1em;
    margin-bottom: 0;
 }
 
 h1{
-   border-color: black;
    border-style: none none double none;
    border-width: 0.25em;
    font-size: 3em;
@@ -20,21 +20,18 @@ h1{
 }
 
 h2 {
-   border-color: black;
    border-style: none none solid none;
    border-width: 0.1em;
    font-size: 2em;
 }
 
 h3 {
-   border-color: black;
    border-style: none none dashed none;
    border-width: 0.1em;
    font-size: 1.5em;
 }
 
 h4 {
-   border-color: black;
    border-style: none none dotted none;
    border-width: 0.1em;
    font-size: 1.33em;
