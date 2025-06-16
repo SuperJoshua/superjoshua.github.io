@@ -7,33 +7,34 @@ body {
 
 h1, h2, h3, h4 {
    border-color: black;
+   border-width: 0.15em;
    font-variant: small-caps;
+   font-weight: normal;
    margin-top: 1em;
    margin-bottom: 0;
 }
 
+h1, h2 {
+   text-align: center;
+}
+
 h1{
    border-style: none none double none;
-   border-width: 0.25em;
    font-size: 3em;
-   text-align: center;
 }
 
 h2 {
    border-style: none none solid none;
-   border-width: 0.1em;
    font-size: 2em;
 }
 
 h3 {
    border-style: none none dashed none;
-   border-width: 0.1em;
    font-size: 1.5em;
 }
 
 h4 {
    border-style: none none dotted none;
-   border-width: 0.1em;
    font-size: 1.33em;
 }
 
