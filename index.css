@@ -52,6 +52,7 @@ p {
 
 .preview {
    float: right;
+   padding-top: 3px;
 }
 
 #the-realm {
